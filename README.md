@@ -1,2 +1,3 @@
-# irc-bot
-Service for providing IRC commands and features
+# IRC Bot
+
+Service for providing IRC commands and features.
